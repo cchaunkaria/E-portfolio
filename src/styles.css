@@ -171,6 +171,7 @@ nav,
 .dark-theme .scroll__icon:after,
 .dark-theme .link__hover-effect--black:after{
     border-color: white;
+    background-color: white;
 }
 
 .dark-theme .mail__button{
@@ -621,7 +622,7 @@ footer{
     margin: 28px 0;
 }
 
-.footer__social--link
+.footer__social--link,
 .footer__copyright{
     color: white;
 }
